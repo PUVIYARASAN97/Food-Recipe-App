@@ -24,7 +24,7 @@ const Contact = () => {
         params: {
           q: search,
           maxResults: 15,
-          key: 'AIzaSyCWsh5eBcE0qdM-tY-qfZeLEPK0TxXjUw4',
+          key: 'your google api key',
           part: 'snippet',
         },
       })
